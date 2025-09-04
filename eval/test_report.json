@@ -1,0 +1,722 @@
+[
+  {
+    "id": "BC_01_0213",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0218",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0258",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0270",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0292",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0327",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0360",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0375",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0413",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0421",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0422",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0423",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0446",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0472",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0483",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0487",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0510",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0527",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0533",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0572",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0574",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0578",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0581",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0585",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0603",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0608",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0609",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0622",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0632",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0634",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0659",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0664",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0667",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0719",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0731",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0737",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0740",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0754",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0762",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0792",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0795",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0813",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0831",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0857",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0861",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0903",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0951",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0958",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0961",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_0987",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_0995",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1031",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1111",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1152",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1234",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1330",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1363",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1449",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1471",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1475",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1489",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1538",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1552",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1579",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1595",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1598",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1667",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1690",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1733",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1753",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1823",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_1827",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1845",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1848",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1854",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1859",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1880",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1883",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_1966",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2044",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2058",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2101",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2174",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2200",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2213",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2217",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2252",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2290",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2310",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2320",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2323",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2349",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2414",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2422",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2439",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2449",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2499",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_01_2519",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_01_2533",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0030",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0039",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0041",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0049",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0102",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0106",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0110",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0174",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0214",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0216",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0234",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0282",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0284",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0289",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0298",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0313",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0347",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0369",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0389",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0480",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0515",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0555",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0587",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0611",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0694",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0699",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0717",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0741",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0770",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0786",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0791",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0797",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0808",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0818",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0844",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0853",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0862",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0877",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0903",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0926",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_0927",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0964",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0979",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_0989",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_1003",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_1017",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_02_1109",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_02_1125",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_03_0001",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_03_0007",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_03_0050",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_03_0052",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_03_0129",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_03_0144",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_03_0188",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_03_0203",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_03_0212",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_03_0226",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_03_0274",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_04_0052",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_04_0053",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_04_0061",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_04_0088",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_04_0148",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_04_0179",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_04_2092",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_06_0037",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_06_0049",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_06_0099",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_06_0130",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_06_0143",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0020",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0030",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0054",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0105",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0108",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0211",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0229",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0248",
+    "report": "metastasis"
+  },
+  {
+    "id": "BC_07_0251",
+    "report": "non-metastasis"
+  },
+  {
+    "id": "BC_07_0268",
+    "report": "metastasis"
+  }
+]

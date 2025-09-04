@@ -1,0 +1,74 @@
+[
+  {
+    "id": "BC_01_0360",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_0375",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_0413",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_0581",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_0585",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_0609",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_0632",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_0737",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_1330",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_01_1449",
+    "prediction": "metastasis"
+  },
+  {
+    "id": "BC_01_1475",
+    "prediction": "metastasis"
+  },
+  {
+    "id": "BC_01_1552",
+    "prediction": "metastasis"
+  },
+  {
+    "id": "BC_01_1823",
+    "prediction": "metastasis"
+  },
+  {
+    "id": "BC_02_0216",
+    "prediction": "metastasis"
+  },
+  {
+    "id": "BC_02_0927",
+    "prediction": "metastasis"
+  },
+  {
+    "id": "BC_03_0129",
+    "prediction": "nonmetastasis"
+  },
+  {
+    "id": "BC_04_0179",
+    "prediction": "metastasis"
+  },
+  {
+    "id": "BC_07_0105",
+    "prediction": "metastasis"
+  }
+]

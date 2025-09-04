@@ -1,0 +1,917 @@
+[
+  {
+    "id": "BC_01_0297.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0657.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0238.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1661.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0690.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0947.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0187.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1169.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0454.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0849.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0495.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0813.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0767.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0750.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_2544.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1026.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1662.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0380.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0193.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1407.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1504.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0442.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0216.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1206.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0455.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0555.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0047.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2058.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0137.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0136.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0479.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0365.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0253.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0808.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0426.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0748.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1474.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1008.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0918.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0608.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0673.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0533.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0573.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0649.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0580.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1036.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0508.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0842.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0777.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0427.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0346.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0909.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0290.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0037.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0470.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0668.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0313.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1681.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2096.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0699.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0900.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0257.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_2009.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0539.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0597.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1014.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0988.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0122.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0952.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0505.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0373.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2000.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0303.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_1724.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0414.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0521.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0453.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1560.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0385.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0936.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0653.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0041.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0330.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1552.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0234.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0810.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0682.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1327.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0249.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_2321.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0711.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0911.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1630.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0834.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0957.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0796.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0301.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0386.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0829.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0350.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_1021.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0932.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0446.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0509.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0596.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0916.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0856.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0766.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0066.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_1520.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0962.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0826.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0730.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0303.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0638.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2356.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1683.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0558.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0922.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1007.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0597.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0749.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0453.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1256.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0283.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0850.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1002.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0068.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2540.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0333.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0448.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2045.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0925.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0512.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0762.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0600.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0217.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_1934.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2528.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0576.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0411.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0289.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0484.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0840.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0764.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0654.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0278.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_1077.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2184.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0301.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1252.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0335.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0825.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1012.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0572.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0881.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1354.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1842.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0238.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0544.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0713.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0257.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_2456.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0710.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0420.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0652.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0976.svs",
+    "metastasis": 1,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0887.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0211.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0589.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0875.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0754.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1882.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0861.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_02_0352.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0848.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_1486.svs",
+    "metastasis": 1,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0783.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0569.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0769.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_01_0559.svs",
+    "metastasis": 0,
+    "train": 1
+  },
+  {
+    "id": "BC_01_0465.svs",
+    "metastasis": 0,
+    "train": 0
+  },
+  {
+    "id": "BC_02_0161.svs",
+    "metastasis": 1,
+    "train": 0
+  }
+]
