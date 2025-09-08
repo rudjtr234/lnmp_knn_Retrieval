@@ -51,8 +51,8 @@
 
 ---
 
-📈 성능 평가 (Performance Metrics)
-📌 2025-09-08
+## 📈 성능 평가 (Performance Metrics)
+#📌 2025-09-08
 
 Performance Metrics
 
@@ -76,7 +76,7 @@ Confusion Matrix
 
 ---
 
-📌 2025-09-04
+#📌 2025-09-04
 
 Performance Metrics
 
