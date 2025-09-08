@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw
 
 def make_overlay_slide(
     slide_id: str, tiles, is_meta,
-    tile_size=512, out_dir=Path("./wsi_image"), max_width=2000
+    tile_size=512, out_dir=Path("./wsi_image_virchow2"), max_width=2000
 ):
     """
     추론된 타일 판정 결과를 기반으로 META/NON-META 오버레이 썸네일 생성
