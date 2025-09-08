@@ -50,5 +50,5 @@
 ---
 
 ## 📊 결과
-![LNMP KNN Retrieval Result](image/result_09_08.png)
+![LNMP KNN Retrieval Result](./image/result_09_08.png)
 
