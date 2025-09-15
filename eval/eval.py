@@ -6,7 +6,7 @@ from sklearn.metrics import precision_score, recall_score, f1_score, confusion_m
 with open('answer_label.json', 'r') as f:
     ground_truth = json.load(f)
 
-with open('lnmp_predictions_v0.2.1.json', 'r') as f:
+with open('lnmp_predictions_v0.2.2.json', 'r') as f:
     predictions = json.load(f)
 
 # Create dictionaries

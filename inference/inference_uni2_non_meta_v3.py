@@ -36,6 +36,7 @@ BASE_ROOT_2 = Path("/home/mts/ssd_16tb/member/jks/lnmp_breast_data/vectordb/fais
 BASE_ROOT_3 = Path("/home/mts/ssd_16tb/member/jks/lnmp_breast_data/tau")
 BASE_ROOT_4 = Path("/home/mts/ssd_16tb/member/jks/lnmp_knn_Retrieval/inference")
 BASE_ROOT_5 = Path("/home/mts/ssd_16tb/member/jks/lnmp_knn_Retrieval/inference/result")
+BASE_ROOT_6 = Path("/home/mts/ssd_16tb/member/jks/lnmp_knn_Retrieval/eval")
 
 
 VERSION_DIR = BASE_ROOT / "V1.0.1"
@@ -48,8 +49,8 @@ MIN_META_COUNT  = 10
 VALID_EXTS      = {".jpg", ".jpeg", ".png", ".bmp"}
 
 # τ / Index 경로
-TAU_FILE   = BASE_ROOT_3 / "tau_params_v0.1.1.json"
-INDEX_FILE = BASE_ROOT_2 / "hnsw_index_v0.1.1.faiss"
+TAU_FILE   = BASE_ROOT_3 / "tau_params_v0.1.3.json"
+INDEX_FILE = BASE_ROOT_2 / "hnsw_index_v0.1.0.faiss"
 
 # =========================
 # DDP Setup
@@ -57,14 +58,21 @@ INDEX_FILE = BASE_ROOT_2 / "hnsw_index_v0.1.1.faiss"
 from datetime import timedelta
 
 def setup(rank, world_size):
+    # 환경 변수 세팅
+    os.environ["NCCL_ASYNC_ERROR_HANDLING"] = "1"
+    os.environ["NCCL_BLOCKING_WAIT"] = "1"
+    os.environ["NCCL_DEBUG"] = "INFO"
+    os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
+
     dist.init_process_group(
         backend="nccl",
         init_method="env://",
         world_size=world_size,
         rank=rank,
-        timeout=timedelta(hours=24)
+        timeout=timedelta(hours=24)  # 필요 시 줄여도 됨
     )
     torch.cuda.set_device(rank)
+    print(f"[Rank {rank}] Process group initialized (world_size={world_size})", flush=True)
 
 def cleanup():
     try:
@@ -104,9 +112,11 @@ def slide_decision(meta_count: int, total_tiles: int, ratio_thr: float, min_meta
     ratio = (meta_count / max(total_tiles, 1))
     return "META" if (meta_count >= min_meta and ratio >= ratio_thr) else "NON_META"
 
+
 # =========================
 # Main Worker
 # =========================
+
 def main_worker(rank, world_size):
     setup(rank, world_size)
 
@@ -184,11 +194,19 @@ def main_worker(rank, world_size):
                 is_meta = []
                 for row in scores:
                     if np.all(row >= tau_high):
+                        # 확실히 META
                         is_meta.append(True)
                     elif np.all(row <= tau_low):
+                        # 확실히 NON-META
                         is_meta.append(False)
                     else:
-                        is_meta.append(np.all(row > tau_high))
+                        # ������ 애매 구간 → 5개 이웃 만장일치 검사
+                        votes = [(d >= tau_high) for d in row]
+                        if all(votes):
+                            is_meta.append(True)   # 5개 다 META
+                        else:
+                            is_meta.append(False)  # 하나라도 아니면 NON-META
+
                 is_meta = np.array(is_meta)
 
                 meta_cnt = int(np.sum(is_meta))
@@ -205,12 +223,13 @@ def main_worker(rank, world_size):
                     out_dir=BASE_ROOT_2 / "wsi_image"
                 )
 
-        out_json = BASE_ROOT_2 / f"lnmp_predictions_v0.2.2.json"
+        out_json = BASE_ROOT_6 / f"lnmp_predictions_v0.2.3.json"
         with open(out_json, "w") as f:
             json.dump(merged, f, indent=2, ensure_ascii=False)
         print(f"\n✅ 전체 결과 저장 완료: {out_json}")
 
     cleanup()
+
 
 # =========================
 # 엔트리포인트

@@ -15,11 +15,11 @@ BASE_ROOT_3 = Path("/home/mts/ssd_16tb/member/jks/lnmp_breast_data/tau/")
 
 # 기존 저장된 index / tau 파일
 INDEX_FILE = BASE_ROOT_2 / "hnsw_index_v0.1.0.faiss"
-TAU_FILE   = BASE_ROOT_3 / "tau_params_v0.1.1.json"
+TAU_FILE   = BASE_ROOT_3 / "tau_params_v0.1.4.json"
 
 # quantile 값 (원하는 대로 바꿔서 실험 가능)
-Q_LOW   = 95
-Q_HIGH  = 99.9
+Q_LOW   = 98
+Q_HIGH  = 99.99
 
 # =========================
 # 실행
