@@ -61,7 +61,9 @@
 
 
 🔹 Confusion Matrix
+
 📌 v0.2.7
+
 |                     | Predicted Positive (Meta) | Predicted Negative (Non-Meta) |
 | ------------------- | ------------------------- | ----------------------------- |
 | **Actual Positive** | 22 (TP)                   | 3 (FN)                        |
@@ -75,6 +77,7 @@
 | **Actual Negative** | 11 (FP)                   | 14 (TN)                       |
 
 📌 v0.2.9
+
 |                     | Predicted Positive (Meta) | Predicted Negative (Non-Meta) |
 | ------------------- | ------------------------- | ----------------------------- |
 | **Actual Positive** | 18 (TP)                   | 7 (FN)                        |
