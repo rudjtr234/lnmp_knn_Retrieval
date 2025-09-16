@@ -67,21 +67,21 @@
 
 📌 v0.2.7
 
-|                     | Predicted Positive (Meta) | Predicted Negative (Non-Meta) |
-| ------------------- | ------------------------- | ----------------------------- |
-| **Actual Positive** | 22 (TP)                   | 3 (FN)                        |
-| **Actual Negative** | 25 (FP)                   | 0 (TN)                        |
+|                     | Predicted Positive | Predicted Negative |
+| ------------------- | ------------------ | ------------------ |
+| **Actual Positive** | 10 (TP)            | 15 (FN)            |
+| **Actual Negative** | 3 (FP)             | 22 (TN)            |
 
 📌 v0.2.8
 
-|                     | Predicted Positive (Meta) | Predicted Negative (Non-Meta) |
-| ------------------- | ------------------------- | ----------------------------- |
-| **Actual Positive** | 16 (TP)                   | 9 (FN)                        |
-| **Actual Negative** | 11 (FP)                   | 14 (TN)                       |
+|                     | Predicted Positive | Predicted Negative |
+| ------------------- | ------------------ | ------------------ |
+| **Actual Positive** | 16 (TP)            | 9 (FN)             |
+| **Actual Negative** | 13 (FP)            | 12 (TN)            |
 
 📌 v0.2.9
 
-|                     | Predicted Positive (Meta) | Predicted Negative (Non-Meta) |
-| ------------------- | ------------------------- | ----------------------------- |
-| **Actual Positive** | 18 (TP)                   | 7 (FN)                        |
-| **Actual Negative** | 15 (FP)                   | 10 (TN)                       |
+|                     | Predicted Positive | Predicted Negative |
+| ------------------- | ------------------ | ------------------ |
+| **Actual Positive** | 18 (TP)            | 7 (FN)             |
+| **Actual Negative** | 15 (FP)            | 10 (TN)            |
