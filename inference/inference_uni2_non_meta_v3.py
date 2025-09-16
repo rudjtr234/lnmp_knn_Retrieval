@@ -49,7 +49,7 @@ MIN_META_COUNT  = 10
 VALID_EXTS      = {".jpg", ".jpeg", ".png", ".bmp"}
 
 # τ / Index 경로
-TAU_FILE   = BASE_ROOT_3 / "tau_params_v0.1.3.json"
+TAU_FILE   = BASE_ROOT_3 / "tau_params_v0.1.10.json"
 INDEX_FILE = BASE_ROOT_2 / "hnsw_index_v0.1.0.faiss"
 
 # =========================
@@ -223,7 +223,7 @@ def main_worker(rank, world_size):
                     out_dir=BASE_ROOT_2 / "wsi_image"
                 )
 
-        out_json = BASE_ROOT_6 / f"lnmp_predictions_v0.2.3.json"
+        out_json = BASE_ROOT_6 / f"lnmp_predictions_v0.2.10.json"
         with open(out_json, "w") as f:
             json.dump(merged, f, indent=2, ensure_ascii=False)
         print(f"\n✅ 전체 결과 저장 완료: {out_json}")
