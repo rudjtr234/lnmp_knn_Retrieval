@@ -17,17 +17,20 @@
 ---
 
 ## 🧩 알고리즘 절차
-1. **Tile Extraction**: 512x512 크기의 WSI 타일 추출  
-2. **Embedding**: UNI2-h 모델로 1536차원 벡터화  
-3. **Indexing**: ChromaDB 및 FAISS GPU index 구축  
-4. **Thresholding**: non-metastasis 분포에서 τ=99.99% 값으로 Fence 설정  
-5. **Retrieval & Voting**:  
-   - Query 타일의 최근접 k=5 이웃 탐색  
-   - 모든 이웃이 fence 밖일 경우 → 전이 의심 후보  
-   - 다수결/만장일치 조건에 따라 최종 판정  
-6. **Slide-level Aggregation**:  
-   - 조건 만족 시 슬라이드 전체를 **전이 없음(Non-metastasis)** 으로 판정  
-
+1. **Tile Extraction**: 512×512 크기의 WSI 타일 추출
+2. **Embedding**: UNI2-h 모델로 1536차원 벡터화
+3. **Indexing**: ChromaDB 및 FAISS GPU index 구축
+4. **Thresholding (Fence 설정)**:
+   - 상위 분위수(τ_high, 예: 99.97% ~ 99.93%) → **Fence 밖 → META 확정**
+   - 하위 분위수(τ_low=98%) → **Fence 안 → NON-META 확정**
+   - τ_low ≤ dist ≤ τ_high → **애매 구간 → KNN 투표 진행**
+5. **Retrieval & Voting**:
+   - Query 타일에 대해 FAISS L2 거리 기반 최근접 k=5 이웃 탐색
+   - **5-NN 만장일치 규칙** 적용 → 이웃 모두 fence 밖일 경우 META 판정
+6. **Slide-level Aggregation**:
+   - META 타일 비율 ≥ **0.005**  
+   - META 타일 개수 ≥ **10**  
+   → 조건 만족 시 슬라이드 전체를 **Metastasis(전이)**로 최종 판정
 ---
 
 ## 📊 Prediction Report 예시
